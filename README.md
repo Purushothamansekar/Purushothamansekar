@@ -97,7 +97,7 @@ Python + database integration to track and analyse employee performance metrics 
 <tr><td>🤖</td><td><b>AI Internship</b></td><td>AB Technologies</td></tr>
 <tr><td>🔌</td><td><b>IoT Workshop</b></td><td>Offline Training</td></tr>
 <tr><td>📚</td><td><b>Udemy Courses</b></td><td>Online Learning</td></tr>
-<tr><td>☁️</td><td><b>AWS</b></td><td>In progress</td></tr>
+<tr><td>☁️</td><td><b>AWS</b></td><td>Online Learning</td></tr>
 </table>
 
 <br>
